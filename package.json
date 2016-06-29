@@ -16,8 +16,8 @@
     ""
   ],
   "dependencies": {
-    "falcor-http-datasource": "^0.1.2",
-    "socket.io-client": "^1.4.5",
+    "@synhaptein/falcor-http-datasource": "^0.1.4",
+    "socket.io-client": "^1.4.8",
     "uuid": "^2.0.1"
   },
   "devDependencies": {
