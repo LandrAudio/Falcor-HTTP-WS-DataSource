@@ -18,7 +18,8 @@
   "dependencies": {
     "@synhaptein/falcor-http-datasource": "^0.1.6",
     "socket.io-client": "^1.4.8",
-    "uuid": "^2.0.1"
+    "uuid": "^2.0.1",
+    "q": "^1.4.1"
   },
   "devDependencies": {
     "eslint": "^2.1.0",
