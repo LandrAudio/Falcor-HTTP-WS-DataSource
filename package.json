@@ -1,6 +1,6 @@
 {
   "name": "falcor-http-ws-datasource",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "description": "Falcor HTTP and WebSocket datasource",
   "homepage": "",
   "author": {
