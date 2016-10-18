@@ -1,6 +1,6 @@
 {
   "name": "falcor-http-ws-datasource",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Falcor HTTP and WebSocket datasource",
   "homepage": "",
   "author": {
@@ -16,10 +16,10 @@
     ""
   ],
   "dependencies": {
-    "@synhaptein/falcor-http-datasource": "^0.1.6",
-    "q": "^1.4.1",
-    "socket.io-client": "^1.4.8",
-    "uuid": "^2.0.1"
+    "@synhaptein/falcor-http-datasource": "0.1.6",
+    "q": "1.4.1",
+    "socket.io-client": "1.5.0",
+    "uuid": "2.0.1"
   },
   "devDependencies": {
     "eslint": "^2.1.0",
