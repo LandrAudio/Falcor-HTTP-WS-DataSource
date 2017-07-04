@@ -16,7 +16,7 @@
     ""
   ],
   "dependencies": {
-    "@synhaptein/falcor-http-datasource": "0.1.6",
+    "falcor-http-datasource": "0.1.3",
     "q": "1.4.1",
     "socket.io-client": "1.5.0",
     "uuid": "2.0.1"
