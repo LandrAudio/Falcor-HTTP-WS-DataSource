@@ -19,8 +19,8 @@ falcorHttpWsDataSource('Rainbow');
 Apache-2.0 © [Philippe L&#39;Heureux]()
 
 
-[npm-image]: https://badge.fury.io/js/falcor-http-ws-data-source.svg
-[npm-url]: https://npmjs.org/package/falcor-http-ws-data-source
+[npm-image]: https://badge.fury.io/js/falcor-http-ws-datasource.svg
+[npm-url]: https://www.npmjs.com/package/falcor-http-ws-datasource
 [travis-image]: https://travis-ci.org/synhaptein/falcor-http-ws-data-source.svg?branch=master
 [travis-url]: https://travis-ci.org/synhaptein/falcor-http-ws-data-source
 [daviddm-image]: https://david-dm.org/synhaptein/falcor-http-ws-data-source.svg?theme=shields.io
